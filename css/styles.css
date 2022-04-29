@@ -124,13 +124,13 @@ h3{
     padding-bottom: 20px;
 }
 
-.a{
+.footer-link{
     color: #11999E;
     text-decoration: none;
     margin: 10px 20px;
 }
 
-a:hover{
+.footer-link:hover{
     color: #EAF6F6;
 }
 
